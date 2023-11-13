@@ -20,6 +20,6 @@ $productos = array(
         'descripcion' => 'Mother Board Asus Prime A520m-a Ii/csm Ddr4 Am4 Hdmi Vga Dp Combo Intel Core I5-10400 + 8gb + Ssd 480 + H470 Mainboard.',
         'precio' => 180.99
     )
-    // Puedes agregar más productos según sea necesario.
+   
 );
 ?>
