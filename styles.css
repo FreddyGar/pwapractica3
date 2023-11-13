@@ -8,7 +8,7 @@ body {
 h1 {
     color: #333;
     text-align: center;
-    margin-bottom: 20px; /* Espaciado inferior para separar los encabezados de la lista */
+    margin-bottom: 20px; 
 }
 
 ul {
@@ -16,21 +16,21 @@ ul {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center; /* Centra los elementos de la lista en el eje horizontal */
+    justify-content: center; 
 }
 
 li {
-    margin: 0 10px 20px 10px; /* Ajuste de márgenes para los elementos de la lista */
+    margin: 0 10px 20px 10px; 
     border: 1px solid #ddd;
     padding: 10px;
-    width: 250px; /* Ancho fijo para los elementos de la lista */
-    box-sizing: border-box; /* Incluye el borde y el relleno en el ancho total */
-    text-align: center; /* Centra el contenido en el eje horizontal */
+    width: 250px; 
+    box-sizing: border-box; 
+    text-align: center; 
 }
 
 img {
-    max-width: 100%; /* Hace que las imágenes se ajusten al ancho del contenedor */
-    height: auto; /* Mantiene la proporción de aspecto de la imagen */
+    max-width: 100%; 
+    height: auto; 
 }
 
 button {
@@ -39,7 +39,7 @@ button {
     padding: 10px;
     border: none;
     cursor: pointer;
-    width: 100%; /* Hace que el botón ocupe todo el ancho del contenedor */
+    width: 100%; 
 }
 
 button:hover {
